@@ -1,4 +1,4 @@
 # hello-world
-Beginning new adventures
+A re-beginning
 
-I have danced around computer programming for far too long to neglect it.  I am now embracing it, learning it, being one with it until I get sick of it.  Here's to new adventures!
+I've always toyed with computer programming but never fully committed.  This time I'm committed and ready to embrace the world of web development.  I'm excited to keep learning and start creating!
